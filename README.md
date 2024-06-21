@@ -1,1 +1,2 @@
 # Memory-Care
+Comprehensive web application aids dementia sufferers by integrating React with Redux for state management and employing Tailwind CSS for responsive design, seamless navigation with React Router across Dashboard, Sign-In, and MedicineDiet pages, Backend functionalities are powered by Node.js, Express.js, and Axios for RESTful API integration, including SendGrid for email notifications. Voice alerts using SpeechSynthesisUtterance enhance accessibility, ensuring effective management of medicine plans.
